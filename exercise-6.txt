@@ -1,0 +1,4 @@
+Exercise 6
+
+Remove table Test for database decodemtl_addressbook
+1. drop table test;
