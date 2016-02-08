@@ -1,0 +1,2 @@
+1. mysql-ctl start
+2. mysql -u foofighter0991

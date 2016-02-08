@@ -1,0 +1,7 @@
+Exercise 2
+
+Create a database named decodemtl_test within MySQL
+Create a database named decodemtl_addressbook within MySQL
+
+1. create database decodemtl_test;
+2. create database decodemtl_addressbook;
