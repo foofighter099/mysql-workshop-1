@@ -1,0 +1,5 @@
+Exercise 7
+
+Return list of tables within database decodemtl_addressbook
+1. use decodemtl_addressbook;
+2. show tables;
