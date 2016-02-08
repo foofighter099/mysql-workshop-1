@@ -1,0 +1,13 @@
+Exercise 5
+
+Create table Account for database decodemtl_addressbook
+1. create table account (`Account` int);
+
+Create table AddressBook for database decodemtl_addressbook
+2. create table AddressBook (`AddressBook` int);
+
+Create table Entry for database decodemtl_addressbook
+3. create table entry (`Entry` int);
+
+Create table Test for database decodemtl_addressbook
+4. create table test (`Test` int);
