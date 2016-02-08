@@ -1,0 +1,5 @@
+Exercise 3
+
+Remove database named decodemtl_test from MySQL
+
+1. drop database decodemtl_test;
